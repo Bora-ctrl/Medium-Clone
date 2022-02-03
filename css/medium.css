@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+
+.bg-yellow{
+    background-color:#C4E2FF;
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+.dw{
+    color: rgba(8, 8, 8, 1);
+}
+.dp{
+    color: rgba(41, 41, 41, 1);
+}
+.md{
+    font-size:28px
+}
+.tm{
+    color: rgba(230, 230, 230, 1);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 36px;
+    font-size: 30px;
+    text-decoration: none solid rgba(230,230,230);
+}
+.aside-button li{
+    margin-bottom:10px;
+}
+.br .btn{     
+    border: 1px solid rgba(230, 230, 230, 1);
+    border-radius: 3px;
+    padding:6px 16px;
+    margin-bottom: 8px;
+    
+    margin-right: 8px;
+}
+
+.border-top-dark{
+    border-top: 1px solid #e6e6e6;
+
+}
